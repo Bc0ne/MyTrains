@@ -1,0 +1,6 @@
+C:\Users\MR-Robot\source\repos\MyTrains\MyTrains.Core\bin\Debug\netstandard2.0\MyTrains.Core.deps.json
+C:\Users\MR-Robot\source\repos\MyTrains\MyTrains.Core\bin\Debug\netstandard2.0\MyTrains.Core.dll
+C:\Users\MR-Robot\source\repos\MyTrains\MyTrains.Core\obj\Debug\netstandard2.0\MyTrains.Core.csprojAssemblyReference.cache
+C:\Users\MR-Robot\source\repos\MyTrains\MyTrains.Core\obj\Debug\netstandard2.0\MyTrains.Core.csproj.CoreCompileInputs.cache
+C:\Users\MR-Robot\source\repos\MyTrains\MyTrains.Core\obj\Debug\netstandard2.0\MyTrains.Core.AssemblyInfoInputs.cache
+C:\Users\MR-Robot\source\repos\MyTrains\MyTrains.Core\obj\Debug\netstandard2.0\MyTrains.Core.AssemblyInfo.cs
